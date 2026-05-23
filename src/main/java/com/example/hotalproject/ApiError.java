@@ -1,6 +1,8 @@
 package com.example.hotalproject;
 
 public class ApiError {
+
+
     private final String timestamp;
     private final int status;
     private final String error;
